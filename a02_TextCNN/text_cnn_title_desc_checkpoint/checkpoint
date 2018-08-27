@@ -1,0 +1,6 @@
+model_checkpoint_path: "model_embed.ckpt-99"
+all_model_checkpoint_paths: "model_embed.ckpt-97"
+all_model_checkpoint_paths: "model_.ckpt-98"
+all_model_checkpoint_paths: "model_embed.ckpt-98"
+all_model_checkpoint_paths: "model_.ckpt-99"
+all_model_checkpoint_paths: "model_embed.ckpt-99"
